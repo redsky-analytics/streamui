@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "streamui"
-version = "0.1.0"
+version = "v0.1.2"
 description = ""
 authors = ["Nate Smith <nate@cloudcrestgroup.com>"]
 readme = "README.md"
